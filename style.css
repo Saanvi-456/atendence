@@ -1,0 +1,42 @@
+body
+{
+    background-image: url("https://wallpapermemory.com/uploads/559/cool-wallpaper-4k-372010.jpg");
+
+}
+#submit_button
+{
+    border-radius: 2px;
+    background-color:#ff4d94;
+    border-style: 2px solid red;
+    color: black;
+    border: 2px solid #ff80b3;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#sort_button
+{
+    border-radius: 2px;
+    background-color:#ff4d94;
+    border-style: 2px solid red;
+    color: black;
+    border: 2px solid #ff80b3;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+input
+{
+    margin: 10px;
+}
+
+    input[type=text] {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        border: none;
+        background-color:#ff80b3;
+        color: white;
+      }
+  
